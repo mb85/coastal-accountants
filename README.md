@@ -1,12 +1,12 @@
-# Coastal Accountants Website
+# Coastal Accountants Intranet
 
-A plain HTML/CSS website for the fictional company "Coastal Accountants" featuring a modern, minimalistic design.
+A plain HTML/CSS internal company intranet for Coastal Accountants featuring a modern, minimalistic design.
 
 ## Pages
 
-- **index.html** - Home page with company introduction and services overview
-- **about.html** - About page with company story, team, values, and why choose us
-- **contact.html** - Contact page with form and office information
+- **index.html** - Home page with employee portal and quick access to internal resources
+- **about.html** - Resources page with company policies, templates, training materials, and team directory
+- **contact.html** - IT Support page with ticket submission form and IT department contact information
 
 ## Features
 
@@ -15,7 +15,7 @@ A plain HTML/CSS website for the fictional company "Coastal Accountants" featuri
 - Responsive layout that works on desktop and mobile devices
 - Consistent navigation across all pages
 - Professional color scheme and typography
-- Interactive hover effects on service cards and buttons
+- Interactive hover effects on resource cards and buttons
 
 ## How to View
 
